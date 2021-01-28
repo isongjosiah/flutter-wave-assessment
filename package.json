@@ -1,0 +1,23 @@
+{
+  "name": "flutterwave-technical-assesment",
+  "version": "1.0.0",
+  "description": "flutterwave technical assesment for NodeJS Backend  Engineer (intern)",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "author": "Isong Josiah",
+  "license": "MIT",
+  "engines": {
+    "node": "15.x"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
